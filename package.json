@@ -1,0 +1,20 @@
+{
+  "name": "codes-react-demos",
+  "version": "1.0.0",
+  "description": "React Demo codes",
+  "main": "1-first-file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lang-codes/codes-react-demos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lang-codes/codes-react-demos/issues"
+  },
+  "homepage": "https://github.com/lang-codes/codes-react-demos#readme"
+}
