@@ -53,18 +53,17 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 -----------------------
 
 
-
-First, Clone the repository using the following commands:
+01. First, Clone the repository using the following commands:
 
 ```
 git clone https://github.com/lang-codes/codes-react-demos.git
 ```
 
 
-Second, Install dependencies using `npm install`.
+02. Second, Install dependencies using `npm install`.
 
 
-Third, run the development server:
+03. Third, run the development server:
 
 ```bash
 npm run dev
@@ -74,16 +73,19 @@ yarn dev
 pnpm dev
 ```
 
-Fourth, Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+04. Fourth, Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
-Fifth, You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+05. Fifth, You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 
-Sixth, This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+06. Sixth, This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 
-Eighth, [http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.ts`.
+07. Seventh, 
+
+
+08. Eighth, [http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.ts`.
 
 
 
