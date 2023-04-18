@@ -5,13 +5,17 @@
 
 -----------------------
 
-### CONTENT]https:
+### CONTENT
 
 -----------------------
 
-01. [First File](https://github.com/lang-codes/codes-react-demos/blob/main/src/app/demos/01-01-first-file.js)
-02. [First Component](https://github.com/lang-codes/codes-react-demos/blob/main/src/app/demos/02-01-first-component.js)
-03. [Second Component - Simple HTML List](https://github.com/lang-codes/codes-react-demos/blob/main/src/app/demos/02-02-second-component.js);
+01. [First File - Hello World Component](https://github.com/lang-codes/codes-react-demos/blob/main/src/app/demos/01-01-first-file.js)
+    - Simple Hello World Component
+02. [First Component - Simple Multiple Components](https://github.com/lang-codes/codes-react-demos/blob/main/src/app/demos/02-01-first-component.js)
+    - Multiple Components 
+    - Passing Props
+    - Accessing Props in class and function react components
+03. [Second Component - Simple HTML List](https://github.com/lang-codes/codes-react-demos/blob/main/src/app/demos/02-02-second-component.js)
 04. [Second Component - HTML Event using Button](https://github.com/lang-codes/codes-react-demos/blob/main/src/app/demos/02-03-third-component-html-event.js)
 05. [Second Component - Component Counter using button](https://github.com/lang-codes/codes-react-demos/blob/main/src/app/demos/2-04-fourth-component-counter.js)
 06. [Second Component - Component className and importing styles](https://github.com/lang-codes/codes-react-demos/blob/main/src/app/demos/02-05-fifth-component-className.js)
@@ -35,7 +39,7 @@
 
 
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). The nextjs app structure is used to support Typescript, and Building of ES/ TS files.
 
 ## Getting Started
 
