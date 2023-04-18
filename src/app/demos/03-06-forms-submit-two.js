@@ -12,16 +12,22 @@ export default function Form() {
     const [age, setAge] = useState(42);
 
     function getNameAge() {
-        setName(document.getElementById("name").value);
-        setAge(document.getElementById("age").value);
-        // alternatively submit the form
+        console.log(JSON.stringify({ name, age }));
+        alert(JSON.stringify({ name, age }));
     }
 
+    function setNameValue(val) {
+        setName(val);
+    }
+
+    function setAgeValue(val) {
+        setAge(val);
+    }
 
     return (
         <>
-            <input id="name" />
-            <input id="age" />
+            <input id="name" onChange={(e) => setNameValue(e.target.value)} value={name} />
+            <input id="age" onChange={(e) => setAgeValue(e.target.value)} value={age} />
             <button onClick={getNameAge}>
                 Increment age
             </button>

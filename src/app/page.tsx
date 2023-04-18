@@ -9,11 +9,12 @@ import styles from './page.module.css'
 // import App from './demos/02-04-fourth-component-counter';
 // import App from './demos/02-05-fifth-component-className';
 // import App from './demos/02-06-sixth-component-styles';
-// import App from './demos/03-01';
-// import App from './demos/03-02';
-// import App from './demos/03-03';
-// import App from './demos/03-04';
-// import App from './demos/03-05';
+// import App from './demos/03-01-forms-simple-button';
+// import App from './demos/03-02-forms-input-text-box';
+// import App from './demos/03-03-forms-check-button';
+// import App from './demos/03-04-forms-multiple-variables';
+// import App from './demos/03-05-forms-submit';
+import App from './demos/03-06-forms-submit-two';
 // import App from './demos/03-06';
 // import App from './demos/04-01';
 // import App from './demos/04-02';
