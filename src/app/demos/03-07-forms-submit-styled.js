@@ -6,7 +6,7 @@ import React from 'react';
 import "../globals.css";
 import { useState, useRef } from "react";
 
-const Form = (props) => {
+function Form(props) {
 
     const [username, setUsername] = useState("");
     const [password, setPassword] = useState("");
