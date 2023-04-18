@@ -14,7 +14,7 @@ import styles from './page.module.css'
 // import App from './demos/03-03-forms-check-button';
 // import App from './demos/03-04-forms-multiple-variables';
 // import App from './demos/03-05-forms-submit';
-import App from './demos/03-06-forms-submit-two';
+import App from './demos/03-06-forms-submit-rest-functions';
 // import App from './demos/03-06';
 // import App from './demos/04-01';
 // import App from './demos/04-02';
