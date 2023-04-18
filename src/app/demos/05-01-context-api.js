@@ -1,9 +1,9 @@
-/** 
- * Reactjs Demos
- * Usage: Context APIs
-*/
+'use client'
 
 import React from 'react';
+import { useState } from 'react';
+import styles from '../page.module.css'
+
 
 const ThemeContext = React.createContext('light');
 
