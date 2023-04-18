@@ -12,7 +12,7 @@
 01. [First File - Hello World Component](https://github.com/lang-codes/codes-react-demos/blob/main/src/app/demos/01-01-first-file.js)
     - Simple Hello World Component
 02. [First Component - Simple Multiple Components](https://github.com/lang-codes/codes-react-demos/blob/main/src/app/demos/02-01-first-component.js)
-    - Multiple Components 
+    - Multiple Components
     - Passing Props
     - Accessing Props in class and function react components
 03. [Second Component - Simple HTML List](https://github.com/lang-codes/codes-react-demos/blob/main/src/app/demos/02-02-second-component.js)
