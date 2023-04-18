@@ -2,7 +2,7 @@ import Image from 'next/image'
 // import { Inter } from '@next/font/google'
 import styles from './page.module.css'
 
-// import App from './demos/1-first-file';
+// import App from './demos/1-01-first-file';
 // import App from './demos/2-01-first-component';
 // import App from './demos/2-02-second-component';
 // import App from './demos/2-03-third-component-html-event';
