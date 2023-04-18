@@ -14,7 +14,7 @@
 03. [Second Component - Simple HTML List](https://github.com/lang-codes/codes-react-demos/blob/main/src/app/demos/2-02-second-component.js);
 04. [Second Component - HTML Event using Button](https://github.com/lang-codes/codes-react-demos/blob/main/src/app/demos/2-03-third-component-html-event.js)
 05. [Second Component - Component Counter using button](https://github.com/lang-codes/codes-react-demos/blob/main/src/app/demos/2-04-fourth-component-counter.js)
-06. [Second Component - Component className](https://github.com/lang-codes/codes-react-demos/blob/main/src/app/demos/2-05-fifth-component-className.js)
+06. [Second Component - Component className and importing styles](https://github.com/lang-codes/codes-react-demos/blob/main/src/app/demos/2-05-fifth-component-className.js)
 07. [Second Component - Component Styles - html inner styles](https://github.com/lang-codes/codes-react-demos/blob/main/src/app/demos/2-06-sixth-component-styles.js)
 08. [Second Component - Component Styles - html inner styles with variables](https://github.com/lang-codes/codes-react-demos/blob/main/src/app/demos/2-07-seven-component-styles-two.js)
 09. [Second Component - Component Styles - html inner styles with styles and variables](https://github.com/lang-codes/codes-react-demos/blob/main/src/app/demos/2-08-eight-component-styles-three.js)
